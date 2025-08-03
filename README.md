@@ -39,3 +39,10 @@ By pressing the `"Variation"` button you change what type of animated modal will
 By pressing the `"Show/Hide"` button you activate animations (all logic is in `App.tsx`)
 
 You will see how native is significantly better and runs at 120 FPS while Reanimated and React Native Animated run at lower than 60 FPS
+
+## Additional info
+
+Also you can see example.MP4 at root how to use the example
+
+
+
